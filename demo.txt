@@ -3,3 +3,5 @@
 3. The banner is "WE PROVIDE SOFTWARE SOLUTIONS"
 4. on top put placeholders for menu items,
 5. Once you complete this task, more will be given.
+
+word added at line 7 ........
