@@ -1,0 +1,5 @@
+1. Design the website as given on screenshot.
+2. Top and bottom parts are given. Make a single page website using php. you can use any framework, worpress preferred.
+3. The banner is "WE PROVIDE SOFTWARE SOLUTIONS"
+4. on top put placeholders for menu items,
+5. Once you complete this task, more will be given.
